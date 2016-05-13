@@ -2,7 +2,7 @@
 // @name         Wikipedia sticky table headers
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Displayes the table headers on the top of the screen while otherwise the table header would not be visible. Useful for tall tables with many columns.
+// @description  Displays the table headers on the top of the screen while otherwise the table header would not be visible. Useful for tall tables with many columns.
 // @author       Andras Suller
 // @match        https://*.wikipedia.org/wiki/*
 // @grant        unsafeWindow
